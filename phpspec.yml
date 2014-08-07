@@ -1,0 +1,7 @@
+---
+suites:
+  workflow_suite:
+    namespace: BigName\Immutables
+    psr4_prefix: BigName\Immutables
+
+formatter.name: pretty
