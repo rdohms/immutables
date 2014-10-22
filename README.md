@@ -31,3 +31,11 @@ An array object that cannot be modified once it's created.
 An immutable array base-class designed to provide strict type-checking on creation.
 
 An [example implementation](https://github.com/heybigname/immutables/blob/master/spec/stubs/ArbitrarilyTypedImmutableArray.php) can be found as a test stub.
+
+## Installation
+
+Run the command below to install via Composer
+
+```shell
+composer require heybigname/immutables
+```
